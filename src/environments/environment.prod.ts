@@ -5,5 +5,5 @@
 
 export const environment = {
   production: true,
-  hostServer: 'https://2730c28e5584.ngrok-free.app'
+  hostServer: 'http://localhost:3000'
 }
