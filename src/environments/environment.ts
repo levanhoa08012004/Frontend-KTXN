@@ -9,7 +9,7 @@
 
 export const environment = {
   production: false,
-  hostServer: 'https://2730c28e5584.ngrok-free.app'
+  hostServer: 'http://localhost:3000'
 }
 
 /*
